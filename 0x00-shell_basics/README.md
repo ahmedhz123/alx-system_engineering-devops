@@ -6,3 +6,4 @@ cd .. ==> changes the working directory to the user's home directory
 
 ls -l ==> display the current directory's contents in long format
 
+ls -a ==>Display current directory contents, including hidden files (starting with .) 
