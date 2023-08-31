@@ -1,8 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ls 
-
-\n
-=======
-ls \n
->>>>>>> 2f249b70212f9b4f67c79991b48e230a2ecb53bd
+ls \n 
