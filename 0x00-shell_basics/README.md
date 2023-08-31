@@ -1,5 +1,4 @@
-pwd ==> prints the absolute path name of the current working directory
+pwd ==> display the absolute path name of the current working directory
 
-ls == diplay the content list of your cuurent directory
-
-
+ls ==> display the contents list of current directory
+ 
